@@ -22,3 +22,6 @@ xcuserdata
 
 # VS Code files
 .vscode
+
+# Demo database
+Database/formapp.db
