@@ -22,3 +22,8 @@ xcuserdata
 
 # VS Code files
 .vscode
+
+# Local database
+Database/*.db
+
+.build/
