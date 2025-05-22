@@ -50,3 +50,14 @@ docker compose up website
 ```
 
 The website will be available on `http://localhost:4000`
+
+## SwiftUIFormApp Package
+
+To build and run the demo Swift package:
+1. Open the repository in Xcode 13 or later.
+2. Choose the **SwiftUIFormApp** scheme for iOS or "My Mac" to run via Mac Catalyst.
+
+Default admin credentials:
+- **Username:** `admin`
+- **Password:** `$uper@dmin`
+
